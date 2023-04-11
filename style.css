@@ -62,9 +62,9 @@ ul li:hover a{
 }
 
 .toggle-btn span {
-  width: 35px;
+  width: 30px;
   height: 4px;
-  background: #000;
+  background: #fff;
   display: block;
   margin: 4px;
 }
